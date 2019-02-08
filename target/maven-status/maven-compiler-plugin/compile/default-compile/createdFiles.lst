@@ -1,0 +1,6 @@
+com\my\rest\AppRepository.class
+com\my\rest\DemoApplication.class
+com\my\rest\AppService.class
+com\my\rest\AppModel.class
+com\my\rest\AppController2.class
+com\my\rest\AppModelResourceAssembler.class
